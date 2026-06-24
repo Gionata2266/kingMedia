@@ -5,14 +5,14 @@ App de streaming e catálogo de filmes e séries, desenvolvido com [Expo](https:
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="./assets/images/Entrar.png" alt="Tela de Login" width="250" />
-  <img src="./assets/images/BibliotecaDeFilmes.png" alt="Biblioteca de Filmes" width="250" />
-  <img src="./assets/images/Filme.png" alt="Tela de Filme" width="250" />
-  <img src="./assets/images/Serie.png" alt="Tela de Série" width="250" />
+  <img src="./assets/images/Entrar.png.jpg" alt="Tela de Login" width="250" />
+  <img src="./assets/images/BibliotecaDeFilmes.png.jpg" alt="Biblioteca de Filmes" width="250" />
+  <img src="./assets/images/Filme.png.jpg" alt="Tela de Filme" width="250" />
+  <img src="./assets/images/Serie.png.jpg" alt="Tela de Série" width="250" />
 </p>
 
 <p align="center">
-  <img src="./assets/images/Login.png" alt="Botão de Login" width="100" />
+  <img src="./assets/images/Login.png.jpg" alt="Botão de Login" width="100" />
 </p>
 
 | Login | Biblioteca | Filmes | Séries |
